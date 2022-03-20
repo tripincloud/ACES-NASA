@@ -50,7 +50,7 @@ Our domain DNS are managed by CloudFlare, this allows us to have several advanta
 
 
    - A Content Delivery Network: it allows us to optimize loading time by caching HTML, JavaScript, CSS & Images.
-   - DDOS mitigation: it protects us from denial of service attacks. This is the act of overloading a server (filling all the available space) so that no one can access it.
+   - DDOS mitigation: it protects us from denial of service attacks. This is the act of overloading a server (filling all the available space) so that no one      can access it.
    - Robot protection: this protects us from bots that try to steal content on the site or do brute force (try lots of passwords on the platform).
    - Possession of a Firewall: it allows us to manage the different types of access, to block certain countries or malicious people, etc.
  
